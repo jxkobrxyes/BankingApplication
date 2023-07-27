@@ -14,4 +14,12 @@ Once the user sends an HTTP request to the backend system which is running sprin
 - Postman
 
 # Competencies
-- 
+| Job Function | Description |
+| --- | --- |
+| JF 3.2 | Can explain the principles and uses of relational and non-relational databases |
+| JF 3.6 | Can implement a RESTful API |
+| JF 3.7 | Can implement authentication and authorization to an API |
+| JF 3.8 | Can encrypt sensitive data via hashing  |
+| JF 4.1 | Can explain organizational policies and procedures relating to the tasks being undertaken, and when to follow them. For example, the storage and treatment of sensitive data. |
+| JF 4.2 | Acts with integrity with respect to ethical, legal and regulatory ensuring the protection of personal data, safety and security. |
+| JF 4.4 | Can interpret and implement a given design while remaining compliant with security and maintainability requirements |
