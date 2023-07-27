@@ -10,7 +10,14 @@ The JwtAuthFilter will check the JWT token and extract the email and will use th
 
 <img width="824" alt="Screenshot 2023-07-27 at 10 14 27 AM" src="https://github.com/jxkobrxyes/BankingApplication/assets/79924650/69e12395-44f9-4f5b-9f39-d889cbf1d950">
 
-once we get the response from the JwtAuthFilter, then from there will start the validation process mechanism which will try to call the JwtService which will take a parameter the user itself and also the string token, after the execution of the validation process, well update the security context holder and set the connected user, once it is updated it will dispatch the request and it will dispatchservlet it will send directly to the controller which will do all the execution like calling the service. And will send back a response back to the user.
+once we get the response from the JwtAuthFilter, then from there will start the validation process mechanism which will try to call the JwtService which will take a parameter the user itself and also the string token, after the execution of the validation process, well update the security context holder and set the connected user. 
+
+<img width="669" alt="Screenshot 2023-07-27 at 10 17 25 AM" src="https://github.com/jxkobrxyes/BankingApplication/assets/79924650/32c7607b-f77c-4d3f-976d-cb0927ce70c2">
+
+Once it is updated it will dispatch the request and it will dispatchservlet it will send directly to the controller which will do all the execution like calling the service. And will send back a response back to the user.
+
+<img width="465" alt="Screenshot 2023-07-27 at 10 19 40 AM" src="https://github.com/jxkobrxyes/BankingApplication/assets/79924650/0f97d155-44a3-4436-bc1d-e40607239697">
+
 
 # Technologies
 - Java 17
