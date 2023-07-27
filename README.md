@@ -16,8 +16,6 @@ once we get the response from the JwtAuthFilter, then from there will start the 
 
 Once it is updated it will dispatch the request and it will dispatchservlet it will send directly to the controller which will do all the execution like calling the service. And will send back a response back to the user.
 
-<img width="465" alt="Screenshot 2023-07-27 at 10 19 40 AM" src="https://github.com/jxkobrxyes/BankingApplication/assets/79924650/0f97d155-44a3-4436-bc1d-e40607239697">
-
 
 # Technologies
 - Java 17
