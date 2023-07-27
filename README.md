@@ -27,6 +27,7 @@ Once it is updated it will dispatch the request and it will dispatchservlet it w
 - Postman
 
 # Competencies
+
 | Job Function | Description |
 | --- | --- |
 | JF 3.2 | Can explain the principles and uses of relational and non-relational databases |
