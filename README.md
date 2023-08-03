@@ -1,4 +1,5 @@
 # BankingApplication
+**Go into main branch to see full ReadME file**
 An applicaiton that uses Postman to fetch and send user data using Spring Securities JWT authentication and authorization. This was apart of Multivers's final project module that allowed us to showcase a porject using tools and systems that we use on the Job.
 
 # Overview
